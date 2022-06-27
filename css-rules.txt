@@ -33,3 +33,4 @@ modifier-naming - який? що змінюється?
 
 adding some content
 
+some more content added in feature
