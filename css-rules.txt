@@ -1,0 +1,36 @@
+position: relative;
+top: 10px; (10px from top of the normal position) 
+відсуває блок на 10px від верха
+left: 10px; (moves block 10px from the left relative to it's normal position)
+
+position: absolute;
+top:20px; (moves the block 20px from the top of the parent element)
+right: 0; (glues the block to the right edge of the parent)
+
+при використанні float на дочірніх елементах батьківський елемент зхлопується.
+ Щоб цього уникнути, на батьк. елемент додаємо overflow:hidden;
+
+display: none; елемент не відображається і втрачає своє місце
+visibility: hidden; елемент приховується але місце його нічим не заповнюється
+
+https://www.youtube.com/watch?v=NExgGnuvAgs
+
+БЕМ
+block - що повторюється декілька разів 
+block naming - що це? .title, .subtitle
+no margin or padding
+
+
+css normalize
+element - невід'ємна складова блока, не використовується окремо від блока
+.blockname__elementname
+
+
+modifier - ДОДАТКОВИЙ клас, який додається до блока чи елемента. Відповідає за стан, вигляд тощо.
+modifier-naming - який? що змінюється?
+	ім'якласублоку_модифікатор
+	ім'якласублоку__ім'яелемента_модифікатор
+
+www.caniuse.com
+www.fontawesome.com - іконки 
+
