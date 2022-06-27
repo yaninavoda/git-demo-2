@@ -34,3 +34,4 @@ modifier-naming - який? що змінюється?
 www.caniuse.com
 www.fontawesome.com - іконки 
 
+some more content added in feature
