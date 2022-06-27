@@ -31,6 +31,5 @@ modifier-naming - який? що змінюється?
 	ім'якласублоку_модифікатор
 	ім'якласублоку__ім'яелемента_модифікатор
 
-www.caniuse.com
-www.fontawesome.com - іконки 
+adding some content
 
