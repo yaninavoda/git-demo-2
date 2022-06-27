@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=NExgGnuvAgs
 БЕМ
 block - що повторюється декілька разів 
 block naming - що це? .title, .subtitle
-no margin or padding
+no margin or padding - don't add here
 
 
 css normalize
